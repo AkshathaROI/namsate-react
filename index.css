@@ -12,8 +12,10 @@
   .left img {
     width: 100px;
     margin: 10px 40px 0 10px;
-    cursor: pointer;
+    cursor: poi
+    nter;
   }
+
   img:hover {
     transform: scale(1.1);
   }
@@ -22,6 +24,7 @@
     border-radius: 10px;
     padding: 10px;
   }
+
   .input:focus {
     border: 3px solid crimson;
   }
@@ -35,9 +38,11 @@
     background-color: green;
     color: white;
   }
+
   .right {
     margin-right: 40px;
   }
+  
   .right img {
     width: 50px;
     margin: 10px 20px 0 0;
